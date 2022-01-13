@@ -1,2 +1,7 @@
 # bibleintel-power-bi
 Power BI reports on Bible
+
+Some years ago, I started working on getting all Bible versions (and ultimately all languages) in a SQL database, simply to assist developers of Bible study software. Since then, technology have rapidly developed, and it became quite easy to use this in Excel and other spreadsheet software.
+My personal Bible software solutions (mainly in php with mySQL and asp.net with MS SQL) proofed quite a challenge especially when adding search, reporting etc. functionality. The Bible project have grown to such an extent that I decided to use the full Business Intelligence methodologies and tools to add such a huge volume of data from so many different sources, place it into a Data Lake and Data Warehouse with analytical tools.
+Using Power BI as a BI specialist I only recently I started to see the unbelievable advantages of using Power BI to gain insight into this volume of data. These reports are mainly as a starting point for further development. As a starting point I separated the Bible (King James Version) into Old and New testament.  Using this I am currently working on adding extended mapping for visually presenting a historical picture and utilizing the Q&A capabilities for study and research.
+Source data is available on https://github.com/4050brian and supporting videos on how I developed these reports will be on https://www.youtube.com/channel/UC02DbzMnvJ8GtcduPmBBJVw
